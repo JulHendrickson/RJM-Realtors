@@ -44,6 +44,6 @@ We will then test the model for accuracy.
 
  
 ### Resources
-Kaggle
-Stack overflow
+- Kaggle
+- Stack overflow
 
