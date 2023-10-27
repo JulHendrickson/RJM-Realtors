@@ -1,6 +1,6 @@
-##### RJMJ-Realtors
+# RJMJ-Realtors
 ---
-*Team Members:*
+**Team Members:**
 * Julian Hendrickson
 * Monica Davis
 * Rachel Mwangi
