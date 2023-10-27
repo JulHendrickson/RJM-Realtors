@@ -1,3 +1,5 @@
+![image](https://github.com/JulHendrickson/RJMJ-Realtors/assets/133269723/194267c7-8f7e-44fd-969a-dccdb0d7b96f)
+
 # RJMJ-Realtors
 ---
 **Team Members:**
