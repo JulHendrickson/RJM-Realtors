@@ -9,10 +9,10 @@
 ### Project Description:
 ---
 
-     Our objective is to apply ==Supervised Learning Machine Model== to ==predict housing prices==.
+     Our objective is to apply *Supervised Learning Machine Model* to *predict housing prices*.
      In order to use this model, we will need a dataset with a range of variables such as number of bedrooms, square footage, location, condition of the property, past housing prices etc.
     Once we prepare the dataset, we will apply the SVM algorithim to the data to create a model that predicts housing prices based on the input features (X).
-We will ==test== the model for ==accuracy==.
+We will *test* the model for *accuracy*.
 
 ### Project Outline
 ---
