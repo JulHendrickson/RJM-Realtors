@@ -24,7 +24,7 @@ We will then test the model for accuracy.
 
 - [ ] Read in the data
 
-- [ ] Separate the Features (X from the Target (y)
+- [ ] Separate the Features (X) from the Target (y)
 
 - [ ] Split the data into training and testing sets
 
