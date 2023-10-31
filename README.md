@@ -31,19 +31,30 @@ Import necessary libraries
 1. Read in the data
 ![image](https://github.com/JulHendrickson/RJMJ-Realtors/assets/133269723/35e86099-3d62-4d06-9b3c-74a3ee2daf63)
 
+
 2. Check for nulls
 ![image](https://github.com/JulHendrickson/RJMJ-Realtors/assets/133269723/267d6b20-5534-4269-ac9d-8849a28e5d22)
+
+
 
 3. Check for Correlation between the variables
 ![image](https://github.com/JulHendrickson/RJMJ-Realtors/assets/133269723/3b9da46b-0b33-4012-8110-45211da2056d)
 
+
+
 4. Analyze the variable data types
 ![image](https://github.com/JulHendrickson/RJMJ-Realtors/assets/133269723/76921fef-0bdd-4d97-9a7f-2d4805003073)
+
+
 
 5. Change the 'object' data types to categorical data and encode it using LabelEncoder()
 ![image](https://github.com/JulHendrickson/RJMJ-Realtors/assets/133269723/cf4f61d9-6da2-4151-bf23-2d6e9cb3ef12)
 
+
+
 ![image](https://github.com/JulHendrickson/RJMJ-Realtors/assets/133269723/db7310aa-47bd-4820-b2fa-9c9c0a2b69c1)
+
+
 
 ## Building the Linear Regression Model
 1. Create a model with scikit-learn and fit the data into the model
