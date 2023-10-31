@@ -38,14 +38,13 @@ Import necessary libraries
 ### Check for Correlation between the variables
 ![image](https://github.com/JulHendrickson/RJMJ-Realtors/assets/133269723/60b3cb7c-95a2-4faa-aa95-65d69c8dcb1b)
 
-###Analyze the variable data types
+### Analyze the variable data types
 ![image](https://github.com/JulHendrickson/RJMJ-Realtors/assets/133269723/76921fef-0bdd-4d97-9a7f-2d4805003073)
 
 
 
-5. Change the 'object' data types to categorical data and encode it using LabelEncoder()
-![image](https://github.com/JulHendrickson/RJMJ-Realtors/assets/133269723/cf4f61d9-6da2-4151-bf23-2d6e9cb3ef12)
-
+### Change the 'object' data types to categorical data and encode it using LabelEncoder()
+![image](https://github.com/JulHendrickson/RJMJ-Realtors/assets/133269723/857478f6-7dc3-44fa-89ea-7bd7e06ca034)
 
 
 ![image](https://github.com/JulHendrickson/RJMJ-Realtors/assets/133269723/db7310aa-47bd-4820-b2fa-9c9c0a2b69c1)
