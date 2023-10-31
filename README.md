@@ -65,7 +65,7 @@ Create a model with scikit-learn and fit the data into the model
 
 ---
 
-### Resources
+## Resources
 - Kaggle
 - Stack overflow
 
