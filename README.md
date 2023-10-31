@@ -36,6 +36,7 @@ Import necessary libraries
 ![image](https://github.com/JulHendrickson/RJMJ-Realtors/assets/133269723/2dae008c-af07-4eb5-a6d0-91c616cb09b4)
 
 ### Check for Correlation between the variables
+![image](https://github.com/JulHendrickson/RJMJ-Realtors/assets/133269723/60b3cb7c-95a2-4faa-aa95-65d69c8dcb1b)
 
 
 
