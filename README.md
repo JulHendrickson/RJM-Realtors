@@ -32,9 +32,8 @@ Import necessary libraries
 ![image](https://github.com/JulHendrickson/RJMJ-Realtors/assets/133269723/35e86099-3d62-4d06-9b3c-74a3ee2daf63)
 
 
-![image](https://github.com/JulHendrickson/RJMJ-Realtors/assets/133269723/267d6b20-5534-4269-ac9d-8849a28e5d22)
+2. Check for nulls ![image](https://github.com/JulHendrickson/RJMJ-Realtors/assets/133269723/267d6b20-5534-4269-ac9d-8849a28e5d22)
 
-2. Check for nulls
 
 
 
