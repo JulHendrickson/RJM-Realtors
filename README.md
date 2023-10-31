@@ -38,9 +38,7 @@ Import necessary libraries
 ### Check for Correlation between the variables
 ![image](https://github.com/JulHendrickson/RJMJ-Realtors/assets/133269723/60b3cb7c-95a2-4faa-aa95-65d69c8dcb1b)
 
-
-
-4. Analyze the variable data types
+###Analyze the variable data types
 ![image](https://github.com/JulHendrickson/RJMJ-Realtors/assets/133269723/76921fef-0bdd-4d97-9a7f-2d4805003073)
 
 
