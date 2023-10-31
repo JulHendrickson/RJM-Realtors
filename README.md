@@ -8,7 +8,7 @@
 * Rachel Mwangi
 * Joshua Montalvo
 
-### Project Description:
+## Project Description:
 ---
 
 Exploratory Analysis and Building a Linear Regression model using Housing data to predict or analyze housing prices based on various features like square footage, the number of bedrooms, location, and more.  
@@ -18,7 +18,7 @@ In order to use this model, we will need a dataset with a range of variables suc
 Once we prepare the dataset, we will apply the Linear Regression algorithim to the data to create a model that predicts housing prices based on the input features (X).
     
 
-### Project Outline
+## Project Outline
 ---
 ## Data Loading and Visualization
      
