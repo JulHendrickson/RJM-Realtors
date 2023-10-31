@@ -28,17 +28,13 @@ Import necessary libraries
 
 ## Data Preparation
 
-1. Read in the data
+###Read in the data
 ![image](https://github.com/JulHendrickson/RJMJ-Realtors/assets/133269723/35e86099-3d62-4d06-9b3c-74a3ee2daf63)
 
 
-2. Check for nulls ![image](https://github.com/JulHendrickson/RJMJ-Realtors/assets/133269723/267d6b20-5534-4269-ac9d-8849a28e5d22)
+### Check for nulls 
+### Check for Correlation between the variables
 
-
-
-
-3. Check for Correlation between the variables
-![image](https://github.com/JulHendrickson/RJMJ-Realtors/assets/133269723/3b9da46b-0b33-4012-8110-45211da2056d)
 
 
 
