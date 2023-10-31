@@ -32,9 +32,10 @@ Import necessary libraries
 ![image](https://github.com/JulHendrickson/RJMJ-Realtors/assets/133269723/35e86099-3d62-4d06-9b3c-74a3ee2daf63)
 
 
-### Check for nulls and Correlation between the variables
+### Check for nulls
 ![image](https://github.com/JulHendrickson/RJMJ-Realtors/assets/133269723/2dae008c-af07-4eb5-a6d0-91c616cb09b4)
 
+### Check for Correlation between the variables
 
 
 
