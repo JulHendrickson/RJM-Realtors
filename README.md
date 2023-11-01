@@ -53,8 +53,7 @@ Import necessary libraries
 
 ## Building the Linear Regression Model
 
-###
-Create a model with scikit-learn and fit the data into the model
+### Create a model with scikit-learn and fit the data into the model
 ![image](https://github.com/JulHendrickson/RJMJ-Realtors/assets/133269723/c8d3d5d1-680e-4f35-b246-031c43dcf3b2)
 ![image](https://github.com/JulHendrickson/RJMJ-Realtors/assets/133269723/02c8b031-2eab-464a-a8e4-bc42d4530a5a)
 
