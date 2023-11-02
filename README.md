@@ -64,6 +64,8 @@ Import necessary libraries
 
 ---
 
+Presentation - https://docs.google.com/presentation/d/1ZUsYxiPL8AURb-wi58fMMR5RdO628ySLHFo2TzupZA0/edit#slide=id.g295a9ebd44b_0_1163
+
 ## Resources
 - Kaggle
 - Stack overflow
